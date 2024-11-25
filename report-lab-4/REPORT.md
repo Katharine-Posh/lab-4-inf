@@ -3,5 +3,7 @@
 ![](aafire.jpg) <br><br>
 Результат вывода списка работающих контейнеров на машине:
 ![](2containers.jpg) <br><br>
-Подключение контейнеров к созданной сети и результаты команды ```docker network inspect myNetwork```:
+Подключение контейнеров к созданной сети и результаты команды ```docker network inspect myNetwork```:<br><br>
 ![](network.jpg) <br><br>
+Командой ```ping``` проверила связь между контейнерами:<br><br>
+![](ping.jpg) <br><br>
